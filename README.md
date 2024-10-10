@@ -4,6 +4,7 @@
 # Es un desafío del curso de Java en Alura LAtam y Oracle, es necesario realizar este proyecto para poder culminar con éxito el curso.
 
 # El programa usa la API de ExchangeRate y Gson
+# Al seleccionar una opción del menú, el programa cosume a través de la API directamente y extrae los valores actuales de los tipos de cambio de monedas seleccionadas.
 
 # Usted puede seleccionar opciones del 1 al 8 (se incluyó la moneda PEN (Sol peruano)
 # El menú de opciones es el siguiente:
